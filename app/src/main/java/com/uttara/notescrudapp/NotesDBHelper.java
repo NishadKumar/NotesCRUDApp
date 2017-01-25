@@ -11,9 +11,6 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by vikramshastry on 06/11/15.
- */
 public class NotesDBHelper extends SQLiteOpenHelper{
 
     public static final String DBNAME = "notesdb";
